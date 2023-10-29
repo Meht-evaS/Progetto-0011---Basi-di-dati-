@@ -1,0 +1,14 @@
+06123	Perugia
+06081	Assisi
+06083	Bastia Umbra
+06046	Norcia
+06064	Panicale
+06010	Citerna
+06040	Scheggino
+06073	Corciano
+06038	Spello
+06023	Gualdo Tadino
+06089	Torgiano
+06012	Citta di Castello
+06063	Magione
+06019	Umbertide

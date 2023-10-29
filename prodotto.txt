@@ -1,0 +1,10 @@
+1	multimetro	17	40.0	4
+2	batteria 9V	127	2.50	20
+3	levigatrice	7	120.0	1
+4	avvitatore	4	150.0	1
+5	saldatore	9	79.90	1
+6	motosega	3	199.90	1
+7	scalandrino	14	20.0	5
+8	cassaforte	2	300.0	1
+9	lucchetti	16	10.0	5
+10	cacciaviti	40	4.99	10
